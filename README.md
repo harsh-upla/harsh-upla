@@ -20,8 +20,8 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  
  **Tools**
  <div >
- <img alt="Ubuntu" width="60px" src="assets/ubuntu-icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Linux" width="60px" src="assets/linux-icon.svg"/>&nbsp;&nbsp;&nbsp;<br><br>
- <img alt="Git" width="60px" src="assets/github-icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VSCode" width="60px" src="assets/vscode-icon.svg"/>
+ <img alt="Ubuntu" width="50px" src="assets/ubuntu-icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Linux" width="50px" src="assets/linux-icon.svg"/>&nbsp;&nbsp;&nbsp;<br><br>
+ <img alt="Git" width="50px" src="assets/github-icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VSCode" width="50px" src="assets/vscode-icon.svg"/>
  
  <!--**Designing and Photo Editing**
  
