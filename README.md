@@ -8,20 +8,20 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
 ---
 
- ## My Skills <img alt="Computer" width="45px" src="assets/desktop-icon.svg"/>
+ ## My Skills <img alt="Computer" align='center' width="45px" src="assets/desktop-icon.svg"/>
 
  **Languages**
  
-<img alt="HTML" width="40px" src="assets/html-5-icon.svg"/>&nbsp;&nbsp;&nbsp;<img alt="CSS" width="40px" src="assets/css-icon.svg"/>&nbsp;&nbsp;&nbsp;<img alt="JavaScript" width="40px" src="assets/javascript-icon.svg"/>
+<img alt="HTML" width="60px" src="assets/html-5-icon.svg"/>&nbsp;&nbsp;&nbsp;<img alt="CSS" width="60px" src="assets/css-icon.svg"/>&nbsp;&nbsp;&nbsp;<img alt="JavaScript" width="55px" src="assets/javascript-icon.svg"/>
  
  **Frameworks**
  
- <img alt="nextjs" width="40px" src="assets/nextjs-icon.svg"/>&nbsp;&nbsp;&nbsp;<img alt="tailwindcss" width="40px" src="assets/tailwind-icon.svg"/>&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" width="40px" src="assets/bootstrap-icon.svg"/>
+ <img alt="Bootstrap" width="60px" src="assets/react-icon.svg"/>&nbsp;&nbsp;&nbsp;<img alt="nextjs" width="60px" src="assets/nextjs-icon.svg"/>&nbsp;&nbsp;&nbsp;<img alt="tailwindcss" width="60px" src="assets/tailwind-icon.svg"/>&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" width="60px" src="assets/bootstrap-icon.svg"/>&nbsp;&nbsp;&nbsp;
  
  **Tools**
  <div >
- <img alt="Ubuntu" width="50px" src="assets/ubuntu-icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Linux" width="50px" src="assets/linux-icon.svg"/>&nbsp;&nbsp;&nbsp;<br><br>
- <img alt="Git" width="50px" src="assets/github-icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VSCode" width="50px" src="assets/vscode-icon.svg"/>
+ <img alt="Ubuntu" width="60px" src="assets/ubuntu-icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Linux" width="60px" src="assets/linux-icon.svg"/>&nbsp;&nbsp;&nbsp;<br><br>
+ <img alt="Git" width="60px" src="assets/github-icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VSCode" width="60px" src="assets/vscode-icon.svg"/>
  
  <!--**Designing and Photo Editing**
  
@@ -35,7 +35,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 -->
  **Connect with Me**
 ---
-[<img align="left" alt="LinkedIn - Rohan Das" width="40px" src="assets/linkedin-icon.svg" />](https://www.linkedin.com/in/rohandas28) 
+[<img align="left" alt="LinkedIn - Rohan Das" width="78px" src="assets/linkedin-icon.svg" />](https://www.linkedin.com/in/harsh-upla-4b66a5383/) 
 &nbsp;
 
-[<img align="left" alt="Email -Rohan Das" width="30px" src="assets/gmail-icon.png" />](mailto:harshupla42@gmail.com)
+[<img align="left" alt="Email -Rohan Das" width="60px" src="assets/gmail-icon.png" />](mailto:harshupla42@gmail.com)
